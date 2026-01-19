@@ -1,4 +1,4 @@
-# Ultrazvukov-mera-vzdialenosti---c-vac-senzor-ESP32-
+# Ultrazvukovy merac vzdialenosti - cuvaci senzor- ESP32
 Projekt Ultrazvukový merač vzdialenosti – cúvací senzor sa zameriava na návrh a realizáciu jednoduchého IoT zariadenia založeného na mikrokontroléri ESP32, ktoré umožňuje bezkontaktné meranie vzdialenosti pomocou ultrazvukového senzora. Projekt simuluje princíp cúvacích senzorov používaných v automobilovom priemysle.
 
 Cieľom projektu je: navrhnúť funkčný systém na meranie vzdialenosti,implementovať vizuálnu spätnú väzbu pre používateľa,overiť princíp fungovania ultrazvukového merania, preukázať schopnosť samostatne navrhnúť, naprogramovať a zdokumentovať IoT riešenie.Projekt je určený ako študijný a demonštračný materiál pre predmet Internet vecí.
